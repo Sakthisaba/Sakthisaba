@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there, I'm Chinna sakthi - aka Sakthisaba 👋
 
-<!--
-**Sakthisaba/Sakthisaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png" width=400px >
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a Developer, Student and Techy person!!
+
+- 🔭 I just started to create my projects
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I'm a poorgrammer
+
+
+
+### My Github stats:
+
+ - As i said earlier I'm poorgrammer 😁.I'ill improve my skills in upcoming days🤟
+<a href="https://github.com/Sakthisaba/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakthisaba&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats" />
+</a>
+
+<br />
+
+### Thanks for visiting: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+ <p> 
+   Visitor count👇<br>
+  
+  <img src="https://profile-counter.glitch.me/Sakthisaba/count.svg" />
+ </p>
