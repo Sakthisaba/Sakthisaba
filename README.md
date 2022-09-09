@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a poorgrammer,not "Pro" 😉
+- ⚡ :  😉
 
 
 
 ### My Github stats:
 
- - As i said earlier I'm poorgrammer 😁.I'ill improve my skills in upcoming days🤟
+  I will improve my skills in upcoming days🤟
 <a href="https://github.com/Sakthisaba/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakthisaba&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats" />
 </a>
