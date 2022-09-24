@@ -5,10 +5,10 @@
 
 ### I'm a Developer, Student and Techy person!!
 
-- 🔭 I just started to create my projects
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I just started xxxxxxxxxxxxx
+- 🌱 I’m currently xxxxxxxxxxxx
+- 👯 I’m looking to collaborate with xxxxxxxxxxxxxxxxxx
+- 🥅 2021 Goals: Contribute more xxxxxxxxxxxxxxxx
 - ⚡ :  😉
 
 
