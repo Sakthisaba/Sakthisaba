@@ -5,17 +5,17 @@
 
 ### I'm a Developer, Student and Techy person!!
 
-- 🔭 I just started xxxxxxxxxxxxx
-- 🌱 I’m currently xxxxxxxxxxxx
-- 👯 I’m looking to collaborate with xxxxxxxxxxxxxxxxxx
-- 🥅 2021 Goals: Contribute more xxxxxxxxxxxxxxxx
-- ⚡ :  😉
+- 🔭 Willing to help other developers and also learn from them
+- 🌱 I’m currently doing B.E CS Degree
+- 👯 I’m looking forward collaborate with others
+- 🥅 2022 Goals: Contribute to OSS 
+- ⚡ : 😉
 
 
 
 ### My Github stats:
 
-  I will improve my skills in upcoming days🤟
+ 
 <a href="https://github.com/Sakthisaba/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakthisaba&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats" />
 </a>
@@ -23,6 +23,7 @@
 <br />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthisaba&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -41,7 +42,9 @@ SOLIDITY                       █░░░░░░░░░░░░░░░�
 
 
 
+
 ```
+
 ## Tools : ##
 ```text
 
